@@ -1,7 +1,7 @@
 from music21 import converter, tempo, meter
 import math
 
-e = r'MIDI_popular/1_voicesofspring.mid'
+file_path = r'path'
 
 # parse file 
 file = converter.parse(e)
