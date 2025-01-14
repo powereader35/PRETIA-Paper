@@ -3,8 +3,8 @@ import numpy as np
 from music21 import *
 
 # Directory paths
-midi_folder = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\MIDI_unknown'  # Replace with your folder path
-output_txt_file = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\velocity_std_dev.txt'  # Output text file for average velocities and normalized standard deviation
+midi_folder = r'path'  # Replace with your folder path
+output_txt_file = r'path2'  # Output text file for average velocities and normalized standard deviation
 
 # Function to compute average velocity, normalized standard deviation, and store results
 def calculate_velocity_stats(midi_file):
