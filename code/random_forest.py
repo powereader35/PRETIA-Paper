@@ -8,7 +8,7 @@ from sklearn.tree import export_graphviz
 from graphviz import Source
 
 # Load the dataset
-file_path = 'output2.txt'
+file_path = r'path'
 
 # The dataset is space-delimited and the second column is the classifier
 columns = [
