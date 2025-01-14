@@ -169,8 +169,8 @@ def process_folder(folder_path, save_folder):
                 print(f"Failed to process {clean_filename}")
 
 # Folder path containing the MIDI files
-folder_path = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\MIDI_unknown'  # Modify this path
-save_folder = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\part3data'  # Modify this to the desired save folder path
+folder_path = r'path'  # Modify this path
+save_folder = r'path2'  # Modify this to the desired save folder path
 
 # Process the folder
 process_folder(folder_path, save_folder)
