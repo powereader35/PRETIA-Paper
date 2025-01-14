@@ -4,9 +4,9 @@ from music21 import *
 import numpy as np
 
 # Directory paths
-midi_folder = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\MIDI_unknown'  # Replace with your folder path
-output_txt_file = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\rhythmicdensity_parse_unknown\info.txt'  # Output text file for average densities
-output_graphs_folder = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\rhythmicdensity_parse_unknown'  # Folder to save graphs
+midi_folder = r'path'  # Replace with your folder path
+output_txt_file = r'path2'  # Output text file for average densities
+output_graphs_folder = r'path3'  # Folder to save graphs
 
 #make output folder 
 if not os.path.exists(output_graphs_folder):
