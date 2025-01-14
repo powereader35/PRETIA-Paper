@@ -2,7 +2,7 @@ import os
 from music21 import *
 
 # Define the folder containing the MIDI files
-midi_folder_path = r'C:\Users\aiden\OneDrive\Desktop\Feature_Modeling\MIDI_unknown'
+midi_folder_path = r'path'
 
 # the regular ts, very usual in music (simple and compound meters)
 common_time_signatures = ['4/4', '3/4', '2/4', '6/8', '9/8', '12/8', '2/2']
